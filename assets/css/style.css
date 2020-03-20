@@ -40,7 +40,7 @@ nav ul li a:active{
 
 #France{
     width: 150px;
-    height: 200px;
+    height: 150px;
     float: left;
     margin: 10px;
 
@@ -52,14 +52,14 @@ nav ul li a:active{
 #Fblue{
     width: 50px;
     background-color: blue;
-    height: 200px;
+    height: 150px;
     float: left;
 }
 
 #Fwhite{
     width: 50px;
     background-color: white;
-    height: 200px;
+    height: 150px;
     float: left;
     border-top: 1px blue solid;
     border-bottom: 1px blue solid;;
@@ -69,7 +69,7 @@ nav ul li a:active{
 #Fred{
     width: 50px;
     background-color: red;
-    height: 200px;
+    height: 150px;
     float: left;
 }
 
@@ -183,5 +183,70 @@ nav ul li a:active{
     float: left;
 }
 #ukdesc{
+    text-align: center;
+}
+
+
+
+#indonesia{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    
+}
+#indor{
+    width: 200px;
+    height: 75px;
+    background-color: red;
+    float: left;
+}
+#indow{
+    width: 200px;
+    height: 75px;
+    background-color: white;
+    float: left;
+    border-bottom:1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+#indodesc{
+    text-align: center;
+}
+
+#nigeria{
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    margin-top: 60px;
+
+
+}
+#nigg{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: green;
+
+}
+
+#nigw{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: white;
+    border-top: 1px cadetblue solid;
+    border-bottom: 1px cadetblue solid;
+}
+
+#nigg2{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: green;
+
+}
+#nigdesc{
     text-align: center;
 }
