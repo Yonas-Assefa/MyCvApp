@@ -1,0 +1,33 @@
+header{
+    background-color: green;
+    width: 95%;
+    padding-LEFT: 60px;
+   
+}
+
+
+
+
+
+nav ul li{
+    display: inline;
+    padding: 40px;
+    font-size: 25px;
+    font: bolder;
+
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li a:link{
+    background-color:green;
+}
+nav ul li a:visited{
+    background-color:green;
+}
+nav ul li a:hover{
+    background-color:silver;
+}
+nav ul li a:active{
+    background-color: black;
+}
