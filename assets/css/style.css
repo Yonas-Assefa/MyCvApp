@@ -31,3 +31,157 @@ nav ul li a:hover{
 nav ul li a:active{
     background-color: black;
 }
+
+.body{
+    background-image: url("./assets/images/background2.jpeg");
+    background-repeat: no-repeat;
+    background-position:cover;
+}
+
+#France{
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+
+
+    
+    
+}
+
+#Fblue{
+    width: 50px;
+    background-color: blue;
+    height: 200px;
+    float: left;
+}
+
+#Fwhite{
+    width: 50px;
+    background-color: white;
+    height: 200px;
+    float: left;
+    border-top: 1px blue solid;
+    border-bottom: 1px blue solid;;
+    
+}
+
+#Fred{
+    width: 50px;
+    background-color: red;
+    height: 200px;
+    float: left;
+}
+
+#FDesc{
+    text-align: center;
+}
+
+#Germany{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;    
+
+}
+#GBlack{
+    width: 200px;
+    height: 50px;
+    background-color: black;
+}
+#GRed{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+
+}
+#Gyellow{
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+}
+#GDesc{
+    text-align: center;
+}
+
+
+#gabon{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;    
+
+}
+#gg{
+    width: 200px;
+    height: 50px;
+    background-color: green;
+}
+#gy{
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+
+}
+#gbl{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}
+#gdesc{
+    text-align: center;
+}
+
+
+#hungary{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}
+
+#hunr{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: red;
+
+}
+#hunw{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: white;
+
+}
+#hung{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: green;
+}
+#hundesc{
+    text-align: center;
+}
+
+#ukraine{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}
+#ukcyan{
+    width: 200px;
+    height: 75px;
+    background-color: cyan;
+    float: left;
+}
+#uky{
+    width: 200px;
+    height: 75px;
+    background-color: yellow;
+    float: left;
+}
+#ukdesc{
+    text-align: center;
+}
