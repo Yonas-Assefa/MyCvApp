@@ -514,3 +514,48 @@ body{
     border-left: 1px red solid; 
     float: left;
 }
+
+#blogdiv{
+    border-bottom: 2px black solid;
+}
+
+article{
+    font-size: 15px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+.title{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.date{
+    font-size: 15px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
