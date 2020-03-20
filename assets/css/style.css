@@ -250,3 +250,257 @@ nav ul li a:active{
 #nigdesc{
     text-align: center;
 }
+
+#palau{
+    background-color: cyan;
+    width: 150px;
+    height: 200px;
+    position: relative;
+    margin: 10px;
+    margin-top: 111px;
+    float: left;
+}
+#palau::before{
+    content: "";
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    top: 20%;
+    left: 30%;
+    position: absolute;
+    background-color: yellow;
+    float: left;
+}
+
+#italy{
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    margin-top: 60px;
+
+
+}
+#itag{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: green;
+
+}
+
+#itaw{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: white;
+    border-top: 1px cadetblue solid;
+    border-bottom: 1px cadetblue solid;
+}
+
+#itar{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: red;
+
+}
+#itadesc{
+    text-align: center;
+}    
+
+
+#ireland{
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    margin-top: 60px;
+
+
+}
+#ireg{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: green;
+
+}
+
+#irew{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: white;
+    border-top: 1px cadetblue solid;
+    border-bottom: 1px cadetblue solid;
+}
+
+#ireo{
+    width: 50px;
+    height: 200px;
+    float: left;
+    background-color: orange;
+
+}
+#iredesc{
+    text-align: center;
+}
+
+#yemen{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    margin-top: 60px;
+}
+
+#yemdesc{
+    text-align: center;
+}
+
+#yemr{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: red;
+
+}
+
+#yemw{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: white;
+    
+}
+
+#yemb{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: black;
+    
+}
+
+
+#luxumberg{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    margin-top: 60px;
+}
+
+#luxdesc{
+    text-align: center;
+}
+
+#luxr{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: red;
+
+}
+
+#luxw{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: white;
+    
+}
+
+#luxb{
+    width: 200px;
+    height: 50px;
+    float: left;
+    background-color: blue;
+    
+}
+
+
+
+body{
+    background-image: url("./assets/images/background2.jpeg");
+    background-repeat: no-repeat;
+}
+#firstBox{
+    margin: 300px;
+    width: 456px;
+    height: 456px;
+}
+#innerBox1{
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px red solid;
+    border-right: 1px red solid; 
+    float: left;
+}
+
+#innerBox2{
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px red solid;
+    border-left: 1px red solid;
+    border-right: 1px red solid; 
+    float: left;
+}
+
+#innerBox3{
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px red solid;
+    border-left: 1px red solid; 
+    float: left;
+}
+
+#innerBox4{
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px red solid;
+    border-top: 1px red solid;
+    border-right: 1px red solid; 
+    float: left;
+}
+
+#innerBox5{
+    width: 150px;
+    height: 150px;
+    border:1px red solid; 
+    float: left;
+}
+
+#innerBox6{
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px red solid;
+    border-top: 1px red solid;
+    border-left: 1px red solid;
+    float: left;
+}
+#innerBox7{
+    width: 150px;
+    height: 150px;
+    border-top: 1px red solid;
+    border-right: 1px red solid; 
+    float: left;
+}
+
+#innerBox8{
+    width: 150px;
+    height: 150px;
+    border-right: 1px red solid;
+    border-top: 1px red solid;
+    border-left: 1px red solid; 
+    float: left;
+}
+
+#innerBox9{
+    width: 150px;
+    height: 150px;
+    border-top: 1px red solid;
+    border-left: 1px red solid; 
+    float: left;
+}
